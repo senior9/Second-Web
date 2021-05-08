@@ -1,0 +1,153 @@
+body{
+    margin: 0%;
+  
+
+}
+
+section{
+
+    height: 500px;
+    padding-bottom: 572px;
+    
+   
+}
+h1{
+    color: indianred;
+    font-family: 'Lobster', cursive;
+}
+h3{
+    font-family: 'Great Vibes', cursive;
+}
+.link{
+    text-decoration: none;
+    background-color: indigo;
+    padding: 10px;
+    color: lavender;
+    border-radius: 7%;
+    font-weight: bold;
+
+
+}
+.cumu{
+    width: 30%;
+    float: left;
+    padding-left: 15%;
+    margin-left: 2%;
+    padding-top: 10%;
+
+
+    
+}
+.cumu img{
+    width: 100%;
+    padding-top: 10%;
+       
+}
+
+.background-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+#nam{
+    padding-top: 18%;
+}
+#bal{
+    margin-top: 10%;
+}
+.middlebanner{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    height: 400px;
+
+}
+.upore{
+    height: 600PX;
+    
+}
+.link2{
+    text-decoration: none;
+    background-color: lightseagreen;
+    padding: 2%;
+    color: maroon;
+    border-radius: 7px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#text{
+    padding-left: 30%;
+    color: navy;
+    margin-bottom:10%;
+
+
+    
+    
+
+}
+.cumu1{
+    width: 25%;
+    float: left;
+    margin-left: 2%;
+   
+
+
+    
+}
+.cumu1 img{
+    width: 100%;
+    padding-bottom: 1000px%;
+}
+.sore{
+    margin-left: 20%;
+    padding-top: 100px;
+    
+    
+}
+.footerbanner{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    
+    background-position: right,top;
+
+}
+.text1{
+    text-align: center;
+}
+.ami{
+    padding-top: 1.50%;
+}
+.ami1{
+    font-family: 'Great Vibes', cursive;
+    font-weight: lighter;
+    color: mediumblue;
+    font-weight: bolder;
+}
+.new{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 2%;
+    padding-left: 4%;
+    padding-right: 4%;
+    color: seashell;
+    border-radius: 15px;
+
+
+}
+.iss{
+    padding-top: 150px;
+    text-align: center;
+    
+}
+.ses{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-position: right,top;
+
+}
+.R{
+
+    padding-top: 190px;
+
+}
+footer{
+    text-align: center;
+    color: darkred;
+}
